@@ -15,6 +15,7 @@ This project investigates the relationship between rising atmospheric CO₂ leve
 - [Final Poster](#final-poster)
 - [Getting Started](#getting-started)
 - [Authors' Contributions](#authors-contributions)
+- [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -22,11 +23,11 @@ This project investigates the relationship between rising atmospheric CO₂ leve
 ## **Repository Structure**
 The repository is organized as follows:
 - **`Code/`**: Contains Python scripts and a Google Colab notebook for generating visualizations.
-  - `interactive_visualization.ipynb`: A Google Colab file for running the code directly.
+  - `INFOSCI301_Final_Project.ipynb`: A Google Colab file for running the code directly.
 - **`Data/`**: Includes ready-to-use datasets from NASA, NOAA, and EM-DAT (no preprocessing required).
 - **`Visualizations/`**: Contains static visualizations generated during the project.
 - **`Docs/`**: Includes the detailed project report in PDF format.
-  - `INFOSCI301_Final_Project_Report.pdf`
+  - `INFOSCI301 Final Project.pdf`
 - **`Interactive Apps/`**: Contains an `App.md` file with links to hosted interactive visualizations.
   - `App.md`: Provides URLs to access the interactive apps hosted on GitHub Pages.
 - **`Demo Video/`**: Includes a demonstration video showcasing the interactive visualization.
@@ -75,6 +76,9 @@ Below is a demonstration video showcasing our interactive visualization:
   Your browser does not support the video tag.
 </video>
 
+If you cannot view the embedded video, access it directly via this link:  
+[Demo Video.mp4](https://duke.box.com/s/uotlzrzcq77vvep6b9aytj8m3224hgsp)
+
 ---
 
 ## **Final Poster**
@@ -102,7 +106,7 @@ The interactive app is hosted online via GitHub Pages, so no additional setup is
 We worked collaboratively to ensure an even distribution of tasks across all deliverables:
 
 - **Rabin**:
-  - Drafted Background and Motivation, Methodology, and Supplementary Materials sections for both the report and poster.
+  - Drafted Background and Motivation, Methodology, Supplementary Materials sections for both the report and poster.
   - Generated figures for visualizations.
   - Recorded the demo video.
   - Managed the GitHub repository structure.
@@ -116,6 +120,11 @@ We worked collaboratively to ensure an even distribution of tasks across all del
   - Drafted Results and Application Scenarios sections for both the report and poster.
   - Edited the demo video for clarity.
   - Created this README file.
+
+---
+
+## **Statement of Intellectual and Professional Growth**
+This project has been a transformative experience in our academic journey. By integrating diverse datasets with advanced visualization techniques, we gained valuable insights into data analysis, storytelling through visuals, and interdisciplinary collaboration. This work has enhanced our technical skills in Python-based tools like Plotly and Dash while deepening our understanding of climate science's societal relevance. The teamwork involved strengthened our communication skills and prepared us for future collaborative research projects.
 
 ---
 
